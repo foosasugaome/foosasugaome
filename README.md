@@ -56,10 +56,7 @@ Web Developer
 
 ### Socials
 
-<p align="left">
-<a href="https://www.github.com/foosasugaome" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/normanteodoro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+
 
 <a href="http://www.github.com/foosasugaome">
 <img src="https://github-readme-stats.vercel.app/api?username=foosasugaome&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="foosasugaome's GitHub stats" /></a>
