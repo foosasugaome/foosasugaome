@@ -1,4 +1,4 @@
-Hi 👋 My name is Norman
+Hi My name is Norman
 =======================
 
 Web Developer
